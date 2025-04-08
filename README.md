@@ -26,8 +26,11 @@ Efficient (only uses resources when needed)
 ## Why This Project Matters
 This setup taught me core skills for cloud computing and real-world IT environments
 
-# Skill                                       Real-World Relevance
-EC2 + Web Server                              Hosting apps, websites, backend services   
-Security Groups                               Cybersecurity, firewall config   
-Load Balancer                                 Distributing traffic across servers   
-Auto Scaling                                  Handling peak traffic, cost optimization
+# Skill and Real-World Relevance
+EC2 + Web Server for Hosting apps, websites, backend services
+
+Security Groups for Cybersecurity, firewall config   
+
+Load Balancer for Distributing traffic across servers   
+
+Auto Scaling for Handling peak traffic, cost optimization
