@@ -3,18 +3,22 @@ This project involves building a setup to simulate a real-world cloud environmen
 # 1. Launch an EC2 Instance + Custom Security Group
 ## Purpose:
 EC2 instance = the virtual server on the cloud.
+
 Security group = acts like a firewall to control traffic into and out of the server.
 
 # 2. Install a Web Server (Apache)
 ## Purpose:
 This makes the EC2 instance serve web pages (like a basic website or app).
+
 Turning the EC2 into a real, working web server that anyone on the internet can access.
 
 
 # 3. Create an Auto Scaling Group with a Load Balancer
 ## Purpose:
 The Auto Scaling Group launches more EC2 instances automatically when there's high traffic.
+
 The Load Balancer shares traffic evenly across those instances.
+
 This ensures your website or app is:
 
 Scalable (can handle growth)
