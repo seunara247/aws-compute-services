@@ -16,8 +16,11 @@ Turning the EC2 into a real, working web server that anyone on the internet can 
 The Auto Scaling Group launches more EC2 instances automatically when there's high traffic.
 The Load Balancer shares traffic evenly across those instances.
 This ensures your website or app is:
+
 Scalable (can handle growth)
+
 Reliable (stays online even if one instance fails)
+
 Efficient (only uses resources when needed)
 
 ## Why This Project Matters
